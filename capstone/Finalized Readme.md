@@ -8,7 +8,6 @@ The World Health Organization said anti-vaccine views were a "top 10 global heal
 - Twitter has employed us with the goal of
   - A) Evaluating the performance of different natural language processing models to identify anti-vaccination tweets that were published during the COVID-19 pandemic
   - B)  Deriving a minimum viable product by use of the most effective machine learning model to create a preliminary vaccine misinformation detection framework
-  - C) identify and analyse key barriers to vaccine uptake
 
 
 
