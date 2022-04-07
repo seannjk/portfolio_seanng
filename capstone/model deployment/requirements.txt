@@ -1,0 +1,7 @@
+flask
+tensorflow
+lime
+scikit-learn
+spacy
+click==8.0.4
+nltk
